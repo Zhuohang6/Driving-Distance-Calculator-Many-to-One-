@@ -15,3 +15,26 @@ This script calculates driving distances (in kilometers) between a fixed address
    ```bash
    git clone https://github.com/yourusername/distance-calculator.git
    cd distance-calculator
+
+2. Install the required Python libraries:
+pip install -r requirements.txt
+
+3. Add your API key in calculate_distance.py.
+
+4. Edit your fixed_address.
+
+5. Prepare your input file (addresses.xlsx) with the following columns:
+Address
+City
+Region
+PostalCode
+Country
+
+6. Run the script:
+python calculate_distance.py
+
+
+
+
+
+
