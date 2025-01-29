@@ -34,6 +34,16 @@ Country
 python calculate_distance.py
 
 
+Input Requirements for FullAddressEntry.py:
+Open Excel
+Create a new column with the exact name "FullAddress".
+Enter full addresses in each row following the format:
+Street Address, City, State, ZIP Code, Country
+Save the file as .xlsx
+
+
+
+
 
 
 
