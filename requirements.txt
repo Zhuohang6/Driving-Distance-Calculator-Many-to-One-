@@ -1,2 +1,5 @@
 pandas
 openrouteservice
+googlemaps
+geopy
+openpyxl
